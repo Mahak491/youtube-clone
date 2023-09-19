@@ -35,4 +35,4 @@ const VideoContainer = () => {
   )
 };
 
-export default VideoContainer
+export default VideoContainer;
