@@ -19,7 +19,10 @@ var nameList = [
     'Lie','Honest','Destined','Bloxxer','Hawk','Eagle','Hawker','Walker',
     'Zombie','Sarge','Capt','Captain','Punch','One','Two','Uno','Slice',
     'Slash','Melt','Melted','Melting','Fell','Wolf','Hound',
-    'Legacy','Sharp','Dead','Mew','Chuckle','Bubba','Bubble','Sandwich','Smasher','Extreme','Multi','Universe','Ultimate','Death','Ready','Monkey','Elevator','Wrench','Grease','Head','Theme','Grand','Cool','Kid','Boy','Girl','Vortex','Paradox'
+    'Legacy','Sharp','Dead','Mew','Chuckle','Bubba','Bubble',
+    'Sandwich','Smasher','Extreme','Multi','Universe','Ultimate','Death',
+    'Ready','Monkey','Elevator','Wrench','Grease','Head','Theme','Grand',
+    'Cool','Kid','Boy','Girl','Vortex','Paradox'
 ];
 
 
